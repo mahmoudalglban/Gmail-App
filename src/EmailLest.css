@@ -1,0 +1,25 @@
+.emailLest {
+  flex: 1;
+  overflow: scroll;
+}
+.emailLest__setting {
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 10px;
+  background-color: #fff;
+  border-bottom: 1px solid whitesmoke;
+  z-index: 999;
+  padding-right: 10px;
+}
+
+.emailLest__sections{
+  position: sticky;
+  top: 0;
+  display: flex;
+  background-color: #fff;
+  border-bottom: 1px solid whitesmoke;
+  z-index: 999;
+  
+}

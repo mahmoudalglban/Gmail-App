@@ -1,0 +1,6 @@
+{
+    "js/ts.implicitProjectConfig.strictFunctionTypes": false,
+    "javascript.inlayHints.parameterNames.suppressWhenArgumentMatchesName": false,
+    "typescript.inlayHints.parameterNames.suppressWhenArgumentMatchesName": false,
+    "typescript.preferences.useAliasesForRenames": false
+}
